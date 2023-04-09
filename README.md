@@ -16,7 +16,7 @@ The professional certificate is divided into 9 courses, each one having its own 
 
 6. [Advanced React](https://github.com/kelvinleandro/coursera-meta-front-end/tree/main/course%2006%20-%20advanced%20react)
 
-7. Principles of UX/UI Design
+7. [Principles of UX/UI Design](https://github.com/kelvinleandro/coursera-meta-front-end/tree/main/course%2007%20-%20principles%20of%20UX%20UI%20Design)
 
 8. Front-End Developer Capstone
 
