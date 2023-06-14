@@ -18,6 +18,6 @@ The professional certificate is divided into 9 courses, each one having its own 
 
 7. [Principles of UX/UI Design](https://github.com/kelvinleandro/coursera-meta-front-end/tree/main/course%2007%20-%20principles%20of%20UX%20UI%20Design)
 
-8. Front-End Developer Capstone
+8. [Front-End Developer Capstone](https://github.com/kelvinleandro/coursera-meta-front-end/tree/main/course%2008%20-%20front-end%20developer%20capstone/capstone-project)
 
 9. Coding Interview Preparation
