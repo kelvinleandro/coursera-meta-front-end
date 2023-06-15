@@ -21,3 +21,7 @@ The professional certificate is divided into 9 courses, each one having its own 
 8. [Front-End Developer Capstone](https://github.com/kelvinleandro/coursera-meta-front-end/tree/main/course%2008%20-%20front-end%20developer%20capstone/capstone-project)
 
 9. Coding Interview Preparation
+
+---
+
+[![professional certificate](certificate.jpg)](https://www.coursera.org/account/accomplishments/professional-cert/DVAL6TU5C6KL)
